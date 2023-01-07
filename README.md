@@ -8,6 +8,11 @@ and the use of the popularity of the event by other groups to advertise or publi
 Jan Fiszer - fiszer@student.agh.edu.pl <br />
 Konrad Pawlik - konradpawlik@student.agh.edu.pl
 
+## Conclusions
+
+A detailed description of the steps, the methods used and the conclusions 
+of the analyses carried out can be found in the report - [FIFAWorldCup2022-Report](https://github.com/Milan-Exchange/Social-Media-Analytics/blob/main/FIFAWorldCup2022-Report.pdf)
+
 ## Prerequisition
 
 - Python 3
